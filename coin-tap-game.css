@@ -25,6 +25,7 @@
 	height: 1165;//665;
 }
 /* For devices 400px and larger: */
+/*
 @media only screen and (min-device-width: 500px) {
 #score {
 	margin: 0 auto;
@@ -57,4 +58,4 @@
 	height: 665;
 }
 }
-
+*/
