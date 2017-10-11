@@ -15,14 +15,14 @@
 	background-image: url("images/campob.png"); 
 	position: absolute;
 	background-size: 100% 100%;
-	width: 1200px;
-	height: 2000;
+	width: 360px;
+	height: 640;
 }
 #coinTapGameContainer canvas {
 	margin: 0;
-	padding:400px 0px 0px 0px;
-	width: 1200px;//1096x;
-	height: 1165;//665;
+	padding:0px 0px 0px 0px;
+	width: 360px;//1096x;
+	height: 640;//665;
 }
 /* For devices 400px and larger: */
 /*
